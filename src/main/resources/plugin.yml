@@ -1,0 +1,9 @@
+name: ChickenSMP-Store
+version: 1.0.0
+author: ChickenSMP
+api-version: 1.21
+
+commands:
+  store:
+    description: Visit the webstore
+    aliases: [shop, webstore]
